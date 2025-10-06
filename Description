@@ -1,0 +1,9 @@
+# Well This game is a beginner kinda project of mine.
+Rules:
+1. 7 indicates the current position of the player.
+2. 10 is the position of the treasure . If you can reach the position 10 without stepping on a mine then you'll win. mines are indicated with -1 .
+3. Type Up to go up and Type Down to go down .
+4. Type Left to go left and Type Right to go right.
+
+Pretty easy !!Right??
+#
