@@ -11,6 +11,14 @@ public class th5 {
         };
         System.out.println("Initial Map: ");
         printmap(arr2d);
+           try {
+            Thread.sleep(6000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        for (int i = 0; i < 50; i++) {
+            System.out.println();
+        }
         int row= arr2d.length;
         int col=arr2d[0].length;
         int row_pos=-1, col_pos=-1;
